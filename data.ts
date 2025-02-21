@@ -1,4 +1,4 @@
-import type { StudentResult } from "./types"
+import type { StudentResult } from "./types";
 
 export const sampleData: { [key: string]: StudentResult } = {
   "1NH23CS038": {
@@ -7,7 +7,7 @@ export const sampleData: { [key: string]: StudentResult } = {
     semester: "Semester 3",
     parentName: "SHANKAR G",
     photoUrl:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-21%20at%2021.16.19_da7e764e.jpg-TAUbeNQeDl34y3xYHYUTUUlhowVYWE.jpeg",
+      "https://res.cloudinary.com/dam5fqx2x/image/upload/v1740160901/bkud6esqhnkhg1rvsqnh.jpg",
     examYear: "2024-25",
     date: "Feb 16 2025",
     courses: [
@@ -96,5 +96,4 @@ export const sampleData: { [key: string]: StudentResult } = {
     sgpa: 5.3,
     cgpa: 6.14,
   },
-}
-
+};
