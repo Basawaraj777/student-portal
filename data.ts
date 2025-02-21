@@ -16,7 +16,7 @@ export const sampleData: { [key: string]: StudentResult } = {
         courseCode: "22MAD21",
         courseName: "MATHEMATICAL FOUNDATION FOR COMPUTING SCIENCES",
         credits: 3.0,
-        grade: "D",
+        grade: "P",
         gpa: 6.0,
       },
       {
@@ -24,7 +24,7 @@ export const sampleData: { [key: string]: StudentResult } = {
         courseCode: "22CSE32",
         courseName: "DIGITAL LOGIC DESIGN",
         credits: 3.0,
-        grade: "D",
+        grade: "P",
         gpa: 5.0,
       },
       {
@@ -32,7 +32,7 @@ export const sampleData: { [key: string]: StudentResult } = {
         courseCode: "22CSE33",
         courseName: "PROBLEM SOLVING USING DATA STRUCTURES",
         credits: 3.0,
-        grade: "D",
+        grade: "P",
         gpa: 4.0,
       },
       {
@@ -40,7 +40,7 @@ export const sampleData: { [key: string]: StudentResult } = {
         courseCode: "22CSE341",
         courseName: "LINUX SYSTEM PROGRAMMING",
         credits: 3.0,
-        grade: "D",
+        grade: "P",
         gpa: 3.0,
       },
       {
@@ -48,7 +48,7 @@ export const sampleData: { [key: string]: StudentResult } = {
         courseCode: "22CSE351",
         courseName: "WEB DESIGN TECHNOLOGIES",
         credits: 1.0,
-        grade: "D",
+        grade: "P",
         gpa: 2.0,
       },
       {
@@ -56,7 +56,7 @@ export const sampleData: { [key: string]: StudentResult } = {
         courseCode: "22BID26",
         courseName: "BIO INSPIRED DESIGN AND INNOVATION",
         credits: 3.0,
-        grade: "D",
+        grade: "P",
         gpa: 5.0,
       },
       {
