@@ -1,8 +1,8 @@
 import type { StudentResult } from "./types";
 
 export const sampleData: { [key: string]: StudentResult } = {
-  "1NH23CS038": {
-    usn: "1NH23CS038",
+  "1NH23CS039": {
+    usn: "1NH23CS039",
     name: "BALAJI GS",
     semester: "Semester 3",
     parentName: "SHANKAR G",
